@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/A. Spital/A. Spital.iml" filepath="$PROJECT_DIR$/A. Spital/A. Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B. Restaurant/B. Restaurant.iml" filepath="$PROJECT_DIR$/B. Restaurant/B. Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Badescu_Alexia_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/.idea/Badescu_Alexia_ActivitateCTS2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/A. Spital/Blabla/Blabla.iml" filepath="$PROJECT_DIR$/A. Spital/Blabla/Blabla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C. Farmacie/C. Farmacie.iml" filepath="$PROJECT_DIR$/C. Farmacie/C. Farmacie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D. Banca/D. Banca.iml" filepath="$PROJECT_DIR$/D. Banca/D. Banca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E. Sportiv/E. Sportiv.iml" filepath="$PROJECT_DIR$/E. Sportiv/E. Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F. Companie de transport in comun - STB/F. Companie de transport in comun - STB.iml" filepath="$PROJECT_DIR$/F. Companie de transport in comun - STB/F. Companie de transport in comun - STB.iml" />
     </modules>
   </component>
 </project>
